@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\AuthContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\AuthContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\PrivateRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\PrivateRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\Login.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Login.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\Signup.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Signup.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\Files.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Files.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\FileUpload.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\FileUpload.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\FileSharingServer\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileSharingServer\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\FileSharingServer\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileSharingServer\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T12:56:33.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T12:56:19.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrivateRoute.js",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\PrivateRoute.js",
+              "RelativeDocumentMoniker": "src\\components\\PrivateRoute.js",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\PrivateRoute.js",
+              "RelativeToolTip": "src\\components\\PrivateRoute.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-17T11:56:14.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-17T11:50:18.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Signup.js",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\Signup.js",
+              "RelativeDocumentMoniker": "src\\components\\Signup.js",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\Signup.js",
+              "RelativeToolTip": "src\\components\\Signup.js",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-17T11:48:14.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthContext.js",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\AuthContext.js",
+              "RelativeDocumentMoniker": "src\\components\\AuthContext.js",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\AuthContext.js",
+              "RelativeToolTip": "src\\components\\AuthContext.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-17T11:47:28.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Files.jsx",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\Files.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Files.jsx",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\Files.jsx",
+              "RelativeToolTip": "src\\components\\Files.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-17T11:38:53.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileUpload.js",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\FileUpload.js",
+              "RelativeDocumentMoniker": "src\\components\\FileUpload.js",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\FileUpload.js",
+              "RelativeToolTip": "src\\components\\FileUpload.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-17T11:27:00.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\Login.js",
+              "RelativeDocumentMoniker": "src\\components\\Login.js",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\src\\components\\Login.js",
+              "RelativeToolTip": "src\\components\\Login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-17T11:23:48.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\FileSharingServer\\routes\\index.js",
+              "RelativeDocumentMoniker": "FileSharingServer\\routes\\index.js",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\FileSharingServer\\routes\\index.js",
+              "RelativeToolTip": "FileSharingServer\\routes\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-17T11:16:46.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\FileSharingServer\\app.js",
+              "RelativeDocumentMoniker": "FileSharingServer\\app.js",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\FileSharingApp\\File-Share-Front-master\\File-Share-Front-master\\FileSharingServer\\app.js",
+              "RelativeToolTip": "FileSharingServer\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-17T11:03:37.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
